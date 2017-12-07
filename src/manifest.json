@@ -1,0 +1,18 @@
+{
+	"compatibleVersion": 3,
+	"bundleVersion": 1,
+	"name": "UI Kit",
+	"commands": [
+    {
+      "name": "👁 Render Library",
+      "identifier": "render",
+      "script": "./main.js"
+    }
+	],
+	"menu": {
+		"title" : "UI Kit",
+		"items": [
+			"render"
+		]
+	}
+}
